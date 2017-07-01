@@ -1,0 +1,10 @@
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.deps.json
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.runtimeconfig.json
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.runtimeconfig.dev.json
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.dll
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/bin/Debug/netcoreapp1.1/TodoAPI.pdb
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.csprojResolveAssemblyReference.cache
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.csproj.CoreCompileInputs.cache
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.AssemblyInfo.cs
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.dll
+/Users/nicksabelli1694/Projects/TodoAPI/TodoAPI/obj/Debug/netcoreapp1.1/TodoAPI.pdb
